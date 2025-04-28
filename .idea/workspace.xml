@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="267ecb6b-24f3-4d23-a89b-24f79087230c" name="Changes" comment="AgenticExample Langchain">
+    <list default="true" id="267ecb6b-24f3-4d23-a89b-24f79087230c" name="Changes" comment="Basic_prompt_model,chain_chat_model,RAG_part1">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_prompt_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chain_chat_prompt.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rag_part1.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SemanticSearchEngine.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/nke-10k-2023.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rag_part1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rag_part1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +109,9 @@
       <workItem from="1744665611385" duration="8875000" />
       <workItem from="1745558863892" duration="25000" />
       <workItem from="1745561497058" duration="22000" />
-      <workItem from="1745713233462" duration="1533000" />
+      <workItem from="1745713233462" duration="2278000" />
+      <workItem from="1745805255716" duration="2164000" />
+      <workItem from="1745860572882" duration="3350000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -131,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744679273745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Basic_prompt_model,chain_chat_model,RAG_part1">
+      <option name="closed" value="true" />
+      <created>1745714965958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745714965958</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="AgenticExample Langchain" />
-    <option name="LAST_COMMIT_MESSAGE" value="AgenticExample Langchain" />
+    <MESSAGE value="Basic_prompt_model,chain_chat_model,RAG_part1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic_prompt_model,chain_chat_model,RAG_part1" />
   </component>
 </project>
